@@ -1,0 +1,2 @@
+// This is a in-line comment.
+/* This is in-line comment */
